@@ -5,7 +5,7 @@ I am Joseph Israel, currently working as a Software Engineer. I have a deep love
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-lordisrael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-israel-6a1000164/)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
-[![Twitter Badge](https://img.shields.io/badge/-lordisrael_?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lordisrael_)](https://twitter.com/lordisrael_)
+[![Twitter Badge](https://img.shields.io/badge/-lordisrael-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lordisrael_)](https://twitter.com/lordisrael_)
 [![Gmail Badge](https://img.shields.io/badge/-josephisrael206@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josephisrael206@gmail.com)](mailto:josephisrael206@gmail.com)
 
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Joseph Israel, currently working as a Software Engineer. I have a deep love for coding and a strong desire to contribute to the world of technology. I am a Back end developer(node JS) and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
+I am Joseph Israel, currently working as a Software Engineer. I have a deep love for coding and a strong desire to contribute to the world . I am a Backend developer(Node JS) and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lordisrael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-israel-6a1000164/)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
